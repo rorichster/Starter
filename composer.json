@@ -1,0 +1,15 @@
+{
+    "name": "rorichster/starter",
+    "description": "Starter Package for Development",
+    "require": {
+        "laravelcollective/html": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rorg Tanev",
+            "email": "rorichster@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
